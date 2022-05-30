@@ -36,8 +36,8 @@ long long int second_answer(long long int value){ //constant time answer
 
 int main (){
     
-	std::cout<< first_answer(100000) << std::endl;
-	std::cout<< second_answer(100000) << std::endl;
+	std::cout<< first_answer(100000-1) << std::endl;
+	std::cout<< second_answer(100000-1) << std::endl;
     
     
     
